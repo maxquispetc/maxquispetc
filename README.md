@@ -24,11 +24,5 @@ Apasionado por el desarrollo de aplicaciones web modernas, con experiencia en la
 
 ---
 
-## 📈 Estadísticas
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=maxquispetc&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxquispetc&layout=compact&theme=radical)  
-
----
-
 ## 🌍 Encuéntrame en:
 - [📧 Correo](mailto:hola@maxquispe.com)  
